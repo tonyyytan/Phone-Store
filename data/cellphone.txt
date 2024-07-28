@@ -1,0 +1,20 @@
+Motorola,Moto G Play,Smartphone,249.99,Android 12,MediaTek Helio G37,Adreno 610,3,32,6.5,1600 x 720,13,5,5000,203,https://www.motorola.ca/smartphones-moto-g-play-gen-2/p?skuId=13
+TCL,TCL 20S,Smartphone,219.99,Android 11,Qualcomm 655,Adreno 610,4,128,6.67,1080 x 2400,64,16,5000,199,https://www.staples.ca/products/3014625-en-tcl-20s-128gb-black
+Samsung,Galaxy A15,Smartphone,269.99,Android 14,MediaTek Dimensity 6100+,Mali-G57 MC2,4,128,6.5,2400 x 1080,50,13,5000,195,https://www.samsung.com/ca/smartphones/galaxy-a/galaxy-a15-5g-blue-black-128gb-sm-a156wzkaxac/
+Motorola,Moto G Power,Smartphone,135.29,Android 11,MediaTek Helio G37,PowerVR GE8320,4,64,6.5,720 x 1600,50,8,5000,203,https://www.amazon.ca/Motorola-Moto-Power-Unlocked-Smartphone/dp/B0C6YX29JM/ref=sr_1_1
+Samsung,Galaxy A23,Smartphone,219.99,Android 12,Qualcomm Snapdragon 680,Adreno 610,4,64,6.6,1080 x 2408,50,8,5000,195,https://www.amazon.ca/Galaxy-SM-A235M-Unlocked-International-Version/dp/B0CJMQG1DH/ref=sr_1_1?
+Google,Pixel 7A,Smartphone,599.99,Android 13,Google Tensor G2,Mali-G710 MP7,8,128,6.1,2400 x 1080,64,13,4385,193.5,https://store.google.com/product/pixel_7a?hl=en-GB
+Apple,iPhone SE,Smartphone,579.99,iOS 17,Apple A15 Bionic Chip,Apple A15 Bionic Chip,4,64,4.7,1334 x 750,12,7,2018,144,https://www.bestbuy.ca/en-ca/product/apple-iphone-se-64gb-3rd-generation-midnight-unlocked/16001793
+Samsung,Galaxy A35,Smartphone,529.99,Android 14,Samsung Exynos 1380,Mali-G68 MP5,8,128,6.6,1080 x 2340,50,50,5000,209,https://www.samsung.com/ca/smartphones/galaxy-a/galaxy-a35-5g-awesome-navy-128gb-sm-a356wzkaxac/
+Motorola,Moto G,Smartphone,349.99,Android 13,MediaTek Dimensity 700,Mali-G57 MC2,4,64,6.5,1600 x 720,48,8,5000,204,https://www.staples.ca/products/3037433-en-motorola-moto-g-5g-65-64-gb-moonlight-grey-unlocked
+OnePlus,Nord N30,Smartphone,379.99,Android 13,Snapdragon 695,Adreno 619,8,128,6.72,1080 x 2400,108,16,5000,195,https://www.oneplus.com/ca_en/oneplus-n30-5g
+Google,Pixel 8 Pro,Smartphone,999.99,Android 14,Google Tensor G3,Mali-G710 MP7,12,128,6.7,2992 x 1344,50,10.5,5000,213,https://store.google.com/product/pixel_8_pro
+Apple,iPhone 13,Smartphone,849.99,iOS 15,A15 Bionic Chip,4 core graphics,4,128,6.06,2532 x 1170,50,12,3227,174,https://www.apple.com/ca/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-midnight
+Samsung,Galaxy S23 FE,Smartphone,869.99,Android 14,Samsung Exynos 2200,Xclipse 920,12,128,6.4,2340 x 1080,50,12,4500,209,https://www.samsung.com/ca/smartphones/galaxy-s/galaxy-s23-fe-mint-128gb-sm-s711wlgaxac/
+Google,Pixel 8,Smartphone,949.99,Android 14,Google Tensor G3,Arm Mali-G715,8,128,6.2,2400 x 1080,50,10.5,4575,187,https://www.staples.ca/products/3077130-en-google-pixel-8-128gb-obsidian-unlocked
+Samsung,Galaxy Z Flip 5,Smartphone,648.99,Android 13,Ualcomm Snapdragon 8 Gen 2,Adreno 740,8,256,6.7,2640 x 1080,12,10,3700,187,https://www.amazon.ca/Samsung-Galaxy-Flip5-Graphite-Renewed/dp/B0CG2K8CTP/ref=sr_1_6?
+Apple,iPhone 15,Smartphone,1129.99,iOS 17,Apple A16 Bionic Processor,A17 Pro chip,6,256,6.12,2556 x 1179,12,12,3349,171,https://www.apple.com/ca/shop/buy-iphone/iphone-15/6.1-inch-display-256gb-black 
+Samsung,Galaxy S24 Ultra,Smartphone,1799.99,Android 14,Samsung Exynos 2400,ARM Mali-G720,12,256,6.8,3200 x 1440,50,12,5000,230,https://www.samsung.com/ca/smartphones/galaxy-s24-ultra/
+Samsung,Galaxy Z Fold 5,Smartphone,2399.99,Android 12,Qualcomm Snapdragon 8 Gen 2,Adreno 640,12,512,7.3,1536 x 2152,16,10,4235,263,https://www.samsung.com/ca/smartphones/galaxy-z-fold5/
+OnePlus,OnePlus 12,Smartphone,1199.99,Android 14,Qualcomm Snapdragon 8 Gen 3,Adreno 750,16,512,6.82,3168 x 1440,50,32,5400,220,https://www.bestbuy.ca/en-ca/product/oneplus-12-5g-512gb-flowy-emerald-unlocked/17700612
+Apple,iPhone 15 Max Pro,Smartphone,1749.99,iOS 17,A17 Bionic Chip,A17 Pro,8,256,6.69,2796 x 1290,48,12,4441,221,https://www.apple.com/ca/shop/buy-iphone/iphone-15-pro/6.7-inch-display-256gb-blue-titanium

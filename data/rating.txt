@@ -1,0 +1,20 @@
+Moto G Power,6,4.5,6,7,7,8,6.42
+Galaxy A23,8,5,6,8,7,8,7.00
+iPhone SE (2022),7,7.5,6,3,3,3,4.92
+Google Pixel 8,7,8.5,8,8,8,7,7.75
+OnePlus 12,9,10,10,9,8,9,9.17
+Moto G Play,6,2,4,4,4,8,4.67
+Pixel 7a,6,6,8,8,9,7,7.33
+Nord N30,7,5,8,8,10,8,7.67
+Galaxy S23 FE,9,6,10,8,8,7,8.00
+Galaxy Z Fold 5,9,10,10,7,6,6,8.00
+Galaxy A15 5G,6,3,6,8,7,8,6.33
+Moto G 5G,6,6,6,4,6,8,6.00
+Pixel 8 Pro,8,8,10,9,8,8,8.50
+Galaxy Z Flip5,7,6,8,7,5,5,6.33
+Galaxy S24 Ultra,9,8,10,10,8,8,8.83
+TCL S20,6,2,6,7,9,8,6.33
+Samsung Galaxy A35,7,4,6,6,8,8,6.50
+Apple iPhone 13,8,9,6,9,5,8,7.50
+Apple iPhone 15,9,10,7,9,6,4,7.50
+Apple iPhone 15 Pro Max,8,10,8,9,7,6,8.00
